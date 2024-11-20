@@ -53,9 +53,7 @@ We are provided with 3 different data tables namely dim_date, electric_vehicle_s
 ### Task 7
 **Request:** List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_7.png" width="800" height="500" /> 
-</p>
+
 
 ### Task 8
 **Request:** What are the peak and low season months for EV sales based on the data from 2022 to 2024?
