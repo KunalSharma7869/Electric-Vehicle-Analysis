@@ -1,6 +1,6 @@
 <h1 align="center">Electric-Vehicle-Analysis</h1> 
 
-# Project: Resume Challenge 12 - Provide Insights to an Automotive company on Electric vehicles launch in India
+ Provide Insights to an Automotive company on Electric vehicles launch in India
 
 ## Project Overview
 
@@ -15,23 +15,12 @@ vehicles segment in North America. As a part of their expansion plans, they want
 Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market study of existing EV/Hybrid market in India before proceeding further. Bruce gave this task to the data analytics team of AtliQ motors and Peter Pandey is the data analyst working in this team.
 
 
-## Table of Contents
 
-1. [Data Model](#data-model)
-2. [Project Tasks](#project-tasks-primary-questions)
-3. [Task-wise Insights and Recommendations](#task-wise-insights-and-recommendations)
-4. [Secondary Research Questions](#secondary-research-questions)
-5. [Technical Details](#technical-details)
-6. [Power BI Dashboard](#power-bi-dashboard)
-7. [Installation and Usage](#installation-and-usage)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
 
 ## Data Model
 We are provided with 3 different data tables namely dim_date, electric_vehicle_sales_by_makers, electric_vehicle_sales_by_state and also shown in entity relationship diagram (ERD) below:
 
-**ERD** ![ERD](https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/ERD_RC12.png)
+
 
 
 ## Project Tasks (Primary Questions)
@@ -270,8 +259,6 @@ Here are three potential brand ambassadors for AtliQ Motors' EV/Hybrid vehicles 
    - **Environmental Advocacy:** Virat Kohli has been vocal about environmental issues and sustainable living. His endorsement can align well with the eco-friendly message of EVs and hybrids, resonating with environmentally conscious consumers .
    - **Youth Appeal:** As a cricket icon, Kohli appeals to the younger generation, who are increasingly becoming key consumers of innovative and sustainable technologies. His association can help attract younger customers who are more likely to adopt new technologies like EVs and hybrids .
 
-[link of image of Kohli brand value:](https://www.financialexpress.com/business/brandwagon-virat-kohli-leads-in-brand-value-and-shah-rukh-khan-makes-a-comeback-reveals-krolls-report-3527784/)
-
 2. **Priyanka Chopra:**
    - **Global Influence:** Priyanka Chopra is an internationally renowned actress and philanthropist with a significant influence both in India and globally. She has over 85 million followers on Instagram, providing extensive reach and visibility .
    - **Advocate for Sustainability:** Chopra has been involved in various environmental and sustainability initiatives. Her partnership with AtliQ Motors can emphasize the brand's commitment to sustainability and appeal to eco-conscious consumers .
@@ -349,45 +336,7 @@ These recommendations, backed by market insights and consumer behavior data, can
 
 - **SQL Queries:** Used a range of SQL queries from basic to advanced, including CTE, subquery, GROUP BY, window functions, user-defined functions, and stored procedures.
 - **Database:** MySQL
-- **Visualization:** Power BI for creating charts and visualizations
-- **Presentation:** Microsoft PowerPoint for making the presentation
 
 
-## Power BI Dashboard
 
-Additionally, an interactive Power BI dashboard was created to analyze makers and states data, providing a comprehensive view of EV Market in India.
 
-[PowerBi Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2MyMTFiNGQtNjZlNy00YThmLWIxZmEtMzRiYmFhMzhjODM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-## Installation and Usage
-To use the SQL scripts, follow these steps:
-
-1. **Clone the Repository:**
-
-git clone https://github.com/satishsangwan/Electric-Vehicle-Analysis.git
-cd Electric-Vehicle-Analysis
-
-2. **Set Up Your Environment:**
-
-Install MySQL Workbench if not already installed.
-Open MySQL Workbench and connect to your database.
-
-3. **Run the SQL Scripts:**
-
-Open Primary_Questions_SQL_Scripts.sql in MySQL Workbench.
-Execute the queries in your MySQL Workbench environment to generate the reports.
-
-4. **Review the Presentation:**
-
-Open Resume_Challenge_12_Presentation.pdf to view the detailed analysis and visualizations.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
-
-## License
-This project is licensed under the [MIT License](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/LICENSE)
-
-## Contact
-For inquiries, please contact Satish Sangwan 
-- Email: ssangwan91@gmail.com
-- LinkedIN : https://www.linkedin.com/in/satish-sangwan-da/
