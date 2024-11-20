@@ -306,7 +306,7 @@ These recommendations, backed by market insights and consumer behavior data, can
 
 - **SQL Queries:** Used a range of SQL queries from basic to advanced, including CTE, subquery, GROUP BY, window functions, user-defined functions, and stored procedures.
 - **Database:** MySQL
-
+SOLUTIONS-https://github.com/KunalSharma7869/Electric-Vehicle-Analysis/blob/main/sql%20automation%20industry%20electric%20vehicle%20analysis.sql
 
 
 
