@@ -27,49 +27,28 @@ We are provided with 3 different data tables namely dim_date, electric_vehicle_s
 
 ### Task 1
 **Request:** List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_T_23.png" width="400" height="250" />
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_T_24.png" width="400" height="250" /> 
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_B_23.png" width="400" />
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_B_24.png" width="400" />
-</p>
+
 
 ### Task 2
 **Request:** Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_2_2W.png" width="400" height="500" />
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_2_4W.png" width="400" height="500" /> 
-</p>
 
 ### Task 3
 **Request:** List the states with negative penetration (decline) in EV sales from 2022 to 2024?
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_3.png" width="800" height="500" /> 
-</p>
 
 ### Task 4
 **Request:** What are the quarterly trends based on sales volume for the top 5 EV makers (4-wheelers) from 2022 to 2024?
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_4.png" width="800" height="500" /> 
-</p>
-
 ### Task 5
 **Request:** How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_5_EVSales.png" width="400" height="450" /> 
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_5_PR.png" width="400" height="450" /> 
-</p>
+
 
 ### Task 6
 **Request:** List down the compounded annual growth rate (CAGR) in 4-wheeler units for the top 5 makers from 2022 to 2024.
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_6.png" width="800" height="500" /> 
-</p>
+
 
 ### Task 7
 **Request:** List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
@@ -81,22 +60,15 @@ We are provided with 3 different data tables namely dim_date, electric_vehicle_s
 ### Task 8
 **Request:** What are the peak and low season months for EV sales based on the data from 2022 to 2024?
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_8.png" width="800" height="500" /> 
-</p>
+
 
 ### Task 9
 **Request:** What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years? 
 
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_9.png" width="500" height="500" /> 
-</p>
 
 ### Task 10
 **Request:** Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.
-<p align="center">
-  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_10.png" width="500" height="300" /> 
-</p>
+
 
 ## Task-wise Insights and Recommendations
 
